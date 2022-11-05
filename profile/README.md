@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi! Welcome to Rome!</h1>
+    <h1>Welcome to Rome!</h1>
 </div>
 
 <p align="center">
@@ -14,6 +14,6 @@
 <div align="center">
     <p style="font-size: 18px">Rome is a unified toolchain for the web.</p>
     <p style="font-size: 24px">
-        Join us on <a href="https://discord.gg/rome">discord</a> or visit our <a href="https://rome.tools">website</a>
+        Join us on <a href="https://discord.gg/rome">Discord</a> or visit our <a href="https://rome.tools">website</a>.
     </p>
 </div>

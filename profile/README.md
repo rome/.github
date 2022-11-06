@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-    <p style="font-size: 18px">Rome is a unified toolchain for the web.</p>
+    <p style="font-size: 18px">Unified developer tools for JavaScript, TypeScript, and the web.</p>
     <p style="font-size: 24px">
         Join us on <a href="https://discord.gg/rome">Discord</a> or visit our <a href="https://rome.tools">website</a>.
     </p>
